@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\dxSample (2)\dxSample\obj\Debug\dxSample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dxSample (2)\dxSample\obj\Debug\dxSample.Form1.resources
+C:\Users\User\Desktop\dxSample (2)\dxSample\obj\Debug\dxSample.Properties.Resources.resources
+C:\Users\User\Desktop\dxSample (2)\dxSample\obj\Debug\dxSample.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dxSample (2)\dxSample\obj\Debug\dxSample.exe.licenses
